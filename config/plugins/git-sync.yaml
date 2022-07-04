@@ -1,0 +1,35 @@
+enabled: true
+folders:
+  - pages
+  - themes
+  - plugins
+  - config
+  - data
+SyncNotice: null
+sync:
+  on_save: true
+  on_delete: true
+  on_media: true
+  cron_enable: false
+  cron_at: '0 12,23 * * *'
+local_repository: null
+repository: 'https://github.com/andrewbenson/benson.git'
+no_user: '0'
+user: andrewbenson
+password: gitsync-def50200d27dd6650dbd2a484d1d887448d5b9a1decdc8a295d04de4fbf47c6dbdef4dbd740a1b17e07e0dc56c2b80cdbd6e1b0c351a5ac60225bcfa7b6dc574741aec8fcfbbe60a439e0be8e3efa10170f19cb44592e2879ec67d39f0811ee0c24158ee1a438db720bf5b8d078518f386a60a7d2dc664d2dde0cf61
+webhook: /_git-sync-ca4d73567c07
+webhook_enabled: '1'
+webhook_secret: 97f51192403fcaae9f21255d737b43f752b315290bb67b9a
+branch: main
+remote:
+  name: origin
+  branch: main
+git:
+  author: gituser
+  message: '(Grav GitSync) Automatic Commit'
+  name: GitSync
+  email: git-sync@trilby.media
+  bin: git
+  ignore: null
+  private_key: null
+logging: false
