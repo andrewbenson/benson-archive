@@ -17,7 +17,7 @@ article:
     image_url: /on-the-proliferation-of-artificial-intelligence/artificial-intelligence.png
     author: 'Andrew L. Benson'
     publisher_name: 'Andrew Benson'
-date: '06-28-2018'
+date: '06-28-2018 12:00'
 
 ---
 
