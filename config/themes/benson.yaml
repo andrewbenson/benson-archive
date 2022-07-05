@@ -32,3 +32,8 @@ social:
       url: https://linkedin.com/in/abenson
       icon: fa-linkedin-in
       rel: me
+    angellist:
+      title: AngelList
+      url: https://angellist.com/andrewbenson
+      icon: fa-angellist
+      rel: me
