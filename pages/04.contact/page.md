@@ -15,13 +15,13 @@ facebookenable: false
 
 <div class="text-center">
 
-#### Email
+<h3>Email</h3>
 
 <code><a href="mailto:email@email.com">email@email.com</a></code>
 
 <br /><br />
 
-#### Connect with me
+<h3>Connect with me</h3>
 
 <a href="https://twitter.com/AndrewBenson" target="_blank" style="text-decoration:none">
 	<button class="btn btn-default">
