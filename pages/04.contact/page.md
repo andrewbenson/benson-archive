@@ -12,27 +12,26 @@ personenabled: false
 facebookenable: false
 ---
 
-<h1 class="text-center">Contact Me</h1>
--------
+
 <div class="text-center">
 
 <h6>Email</h6>
-    <code><a href="mailto:andrew@andrewbenson.xyz">andrew@andrewbenson.xyz</a></code>
+    <code><a href="mailto:email@email.com">email@email.com</a></code>
 
 <br /><br />
 
 <h6>Connect with me</h6>
 
-<button class="button default hollow">
+<button class="btn btn-default">
 	<a href="https://twitter.com/AndrewBenson" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
 </button>
-<button class="button default hollow">
+<button class="btn btn-default">
 	<a href="https://keybase.io/AndrewBenson" target="_blank"><i class="fab fa-keybase"></i> Keybase</a>
 </button>
-<button class="button default hollow">
+<button class="btn btn-default">
 	<a href="https://linkedin.com/in/abenson" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
 </button>
-<button class="button default hollow">
+<button class="btn btn-default">
 	<a href="https://angel.co/andrewbenson" target="_blank"><i class="fab fa-angellist"></i> AngelList</a>
 </button>
  
