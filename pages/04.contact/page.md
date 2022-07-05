@@ -22,9 +22,12 @@ facebookenable: false
 
 <h6>Connect with me</h6>
 
-<button class="btn btn-default">
-	<a href="https://twitter.com/AndrewBenson" target="_blank"><i class="fab fa-twitter"></i> Twitter</a>
-</button>
+<a href="https://twitter.com/AndrewBenson" target="_blank">
+	<button class="btn btn-default">
+		<i class="fab fa-twitter"></i> Twitter
+	</button>
+</a>
+
 <button class="btn btn-default">
 	<a href="https://keybase.io/AndrewBenson" target="_blank"><i class="fab fa-keybase"></i> Keybase</a>
 </button>
