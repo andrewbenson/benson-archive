@@ -28,15 +28,23 @@ facebookenable: false
 	</button>
 </a>
 
-<button class="btn btn-default">
-	<a href="https://keybase.io/AndrewBenson" target="_blank"><i class="fab fa-keybase"></i> Keybase</a>
-</button>
-<button class="btn btn-default">
-	<a href="https://linkedin.com/in/abenson" target="_blank"><i class="fab fa-linkedin"></i> LinkedIn</a>
-</button>
-<button class="btn btn-default">
-	<a href="https://angel.co/andrewbenson" target="_blank"><i class="fab fa-angellist"></i> AngelList</a>
-</button>
+<a href="https://keybase.io/AndrewBenson" target="_blank">
+	<button class="btn btn-default">
+		<i class="fab fa-keybase"></i> Keybase
+	</button>
+</a>
+
+<a href="https://linkedin.com/in/abenson" target="_blank">
+	<button class="btn btn-default">
+		<i class="fab fa-linkedin"></i> LinkedIn
+	</button>
+</a>
+
+<a href="https://angel.co/andrewbenson" target="_blank">
+	<button class="btn btn-default">
+		<i class="fab fa-angellist"></i> AngelList
+	</button>
+</a>
  
 </div>
 
