@@ -11,13 +11,11 @@ taxonomy:
         - Bitcoin
 googledesc: ''
 article:
-    datePublished: '06-28-2018 12:00'
-    dateModified: '06-28-2018 12:00'
     description: ''
     image_url: /on-the-proliferation-of-artificial-intelligence/artificial-intelligence.png
     author: 'Andrew L. Benson'
     publisher_name: 'Andrew Benson'
-date: '06-28-2018 12:00'
+
 
 ---
 
