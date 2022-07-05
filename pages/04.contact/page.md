@@ -15,12 +15,13 @@ facebookenable: false
 
 <div class="text-center">
 
-<h6>Email</h6>
-    <code><a href="mailto:email@email.com">email@email.com</a></code>
+####Email
+
+<code><a href="mailto:email@email.com">email@email.com</a></code>
 
 <br /><br />
 
-<h6>Connect with me</h6>
+####Connect with me
 
 <a href="https://twitter.com/AndrewBenson" target="_blank" style="text-decoration:none">
 	<button class="btn btn-default">
@@ -28,21 +29,21 @@ facebookenable: false
 	</button>
 </a>
 
-<a href="https://keybase.io/AndrewBenson" target="_blank">
-	<button class="btn btn-default">
-		<i class="fab fa-keybase"></i> Keybase
-	</button>
-</a>
-
-<a href="https://linkedin.com/in/abenson" target="_blank">
+<a href="https://linkedin.com/in/abenson" target="_blank" style="text-decoration:none">
 	<button class="btn btn-default">
 		<i class="fab fa-linkedin"></i> LinkedIn
 	</button>
 </a>
 
-<a href="https://angel.co/andrewbenson" target="_blank">
+<a href="https://angel.co/andrewbenson" target="_blank" style="text-decoration:none">
 	<button class="btn btn-default">
 		<i class="fab fa-angellist"></i> AngelList
+	</button>
+</a>
+
+<a href="https://keybase.io/AndrewBenson" target="_blank" style="text-decoration:none">
+	<button class="btn btn-default">
+		<i class="fab fa-keybase"></i> Keybase
 	</button>
 </a>
  
