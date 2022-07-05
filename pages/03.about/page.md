@@ -13,9 +13,8 @@ facebookenable: false
 ---
 
 
-<div class="text-center">
 
-####About
+#### About
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed viverra iaculis orci. Phasellus eget odio ullamcorper, iaculis tellus sed, vulputate libero. Morbi at nibh in justo facilisis finibus tincidunt at erat. Integer malesuada erat at accumsan mattis. Maecenas vitae faucibus arcu. Nunc interdum nunc sapien, in dictum augue sodales ut. Suspendisse vel ex tristique, congue dolor eu, luctus orci. Integer auctor elit elit, a pharetra massa feugiat at. Proin interdum viverra metus, vitae vehicula nunc. In scelerisque varius urna non efficitur. Maecenas egestas felis sed viverra consequat.
 

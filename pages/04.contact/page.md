@@ -15,13 +15,13 @@ facebookenable: false
 
 <div class="text-center">
 
-####Email
+#### Email
 
 <code><a href="mailto:email@email.com">email@email.com</a></code>
 
 <br /><br />
 
-####Connect with me
+#### Connect with me
 
 <a href="https://twitter.com/AndrewBenson" target="_blank" style="text-decoration:none">
 	<button class="btn btn-default">
@@ -54,7 +54,7 @@ facebookenable: false
 
 ------
 
-####For encrypted communications
+#### For encrypted communications
 
 <em>Have a secret to tell me? I use [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy?target=_blank) for email cryptographic privacy.</em>
 
