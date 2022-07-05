@@ -8,7 +8,6 @@ taxonomy:
     tag:
         - 'Angel Investments'
         - FinTech
-        - Bitcoin
 googledesc: ''
 article:
     description: ''
