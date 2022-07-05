@@ -22,7 +22,7 @@ facebookenable: false
 
 <h6>Connect with me</h6>
 
-<a href="https://twitter.com/AndrewBenson" target="_blank">
+<a href="https://twitter.com/AndrewBenson" target="_blank" style="text-decoration:none">
 	<button class="btn btn-default">
 		<i class="fab fa-twitter"></i> Twitter
 	</button>
