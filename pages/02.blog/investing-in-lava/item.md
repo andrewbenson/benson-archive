@@ -8,6 +8,7 @@ taxonomy:
     tag:
         - Angel Investments
         - FinTech
+        - Bitcoin
 googledesc: ''
 twitterenable: true
 twittercardoptions: summary
