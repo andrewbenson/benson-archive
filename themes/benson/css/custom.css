@@ -2,3 +2,16 @@
     text-decoration: none;
 
 }
+
+.site-name {
+    font-weight: 700;
+    line-height: 20px;
+    font-size: 18px;
+    font-family: BlinkMacSystemFont,'Segoe UI',Roboto,Oxygen-Sans,Ubuntu,Cantarell,'Open Sans','Helvetica Neue',sans-serif;
+    letter-spacing: 1px;
+    text-size-adjust: 100%;
+    color: #000;
+
+
+
+}
