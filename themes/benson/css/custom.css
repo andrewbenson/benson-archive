@@ -11,7 +11,9 @@
     letter-spacing: 1px;
     text-size-adjust: 100%;
     color: #000;
+}
 
+.nav-item {
 
-
+    padding-left: 30px;
 }
