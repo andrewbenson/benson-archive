@@ -15,38 +15,38 @@ facebookenable: false
 
 <div class="text-center">
 
-<h3>Email</h3>
+	<h3>Email</h3>
+	<code><a href="mailto:email@email.com">email@email.com</a></code>
 
-<code><a href="mailto:email@email.com">email@email.com</a></code>
+	<br /><br />
 
-<br /><br />
+	<h3>Connect with me</h3>
 
-<h3>Connect with me</h3>
+	<div class="contact-social-links">
+		<a href="https://twitter.com/AndrewBenson" target="_blank">
+			<button class="btn btn-default">
+				<i class="fab fa-twitter"></i> Twitter
+			</button>
+		</a>
 
-<a href="https://twitter.com/AndrewBenson" target="_blank" style="text-decoration:none">
-	<button class="btn btn-default">
-		<i class="fab fa-twitter"></i> Twitter
-	</button>
-</a>
+		<a href="https://linkedin.com/in/abenson" target="_blank">
+			<button class="btn btn-default">
+				<i class="fab fa-linkedin"></i> LinkedIn
+			</button>
+		</a>
 
-<a href="https://linkedin.com/in/abenson" target="_blank" style="text-decoration:none">
-	<button class="btn btn-default">
-		<i class="fab fa-linkedin"></i> LinkedIn
-	</button>
-</a>
+		<a href="https://angel.co/andrewbenson" target="_blank">
+			<button class="btn btn-default">
+				<i class="fab fa-angellist"></i> AngelList
+			</button>
+		</a>
 
-<a href="https://angel.co/andrewbenson" target="_blank" style="text-decoration:none">
-	<button class="btn btn-default">
-		<i class="fab fa-angellist"></i> AngelList
-	</button>
-</a>
-
-<a href="https://keybase.io/AndrewBenson" target="_blank" style="text-decoration:none">
-	<button class="btn btn-default">
-		<i class="fab fa-keybase"></i> Keybase
-	</button>
-</a>
- 
+		<a href="https://keybase.io/AndrewBenson" target="_blank">
+			<button class="btn btn-default">
+				<i class="fab fa-keybase"></i> Keybase
+			</button>
+		</a>
+	</div>
 </div>
 
 
@@ -56,11 +56,11 @@ facebookenable: false
 
 #### For encrypted communications
 
-<em>Have a secret to tell me? I use [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy?target=_blank) for email cryptographic privacy.</em>
+<em>Have a secret to tell me? I use [PGP](https://en.wikipedia.org/wiki/Pretty_Good_Privacy?target=_blank) for cryptographic privacy.</em>
 
-PHP Fingerprint: `F295 3DAE 5A30 E6F3 586F  1A32 9D25 06BC C0D4 7CA7`
+PGP Fingerprint: `F295 3DAE 5A30 E6F3 586F  1A32 9D25 06BC C0D4 7CA7`
 
-PGP Public Key available on [Keybase.io](https://keybase.io/andrewbenson/pgp_keys.asc?target=_blank) or below: 
+My PGP public key is hosted on [Keybase.io](https://keybase.io/andrewbenson/pgp_keys.asc?target=_blank) and below: 
 
 ```
 -----BEGIN PGP PUBLIC KEY BLOCK-----
@@ -142,5 +142,3 @@ Hq07Src+uQ0GBbzltxjUt+huBISCAFYfDRaJt6b3SlLDMC4E3Bf2Y6ogs26ahA==
 =cjJ9
 -----END PGP PUBLIC KEY BLOCK-----
 ```
-
-I'm also available on [Keybase.io](https://keybase.io/andrewbenson?target=_blank). 
