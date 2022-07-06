@@ -29,11 +29,10 @@
 
   <body class="">
     <main class="wrapper">
-      <nav id="navigation" class="navbar navbar-expand-lg ">
+      <nav id="navigation" class="navbar navbar-default ">
         <section class="container">
           <div class="navbar-header">
             <button class="navbar-toggler navbar-toggle justify-content-end" type="button" data-bs-toggle="collapse" data-bs-target="#navbar-menu" aria-controls="#navbar-menu" aria-expanded="true" aria-label="Toggle navigation">
-
               <span class="navbar-toggler-icon"></span>
             </button>
             <a class="navbar-brand float-left site-name" href="{{ home_url }}">
@@ -41,7 +40,7 @@
             </a>
           </div>
           {% block header_navigation %}
-            <div class="collapse navbar-collapse justify-content-end" id="navbar-menu" aria-expanded="true">
+            <div class="navbar-collapse collapse in justify-content-end" id="navbar-menu" aria-expanded="true">
               {% include 'partials/navigation.html.twig' %}
             </div>
           {% endblock %}
