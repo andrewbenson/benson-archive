@@ -11,6 +11,12 @@
     letter-spacing: 1px;
     text-size-adjust: 100%;
     color: #000;
+    padding-top: 15px;
+    padding-left: 15px;
+    padding-right: 15px;
+    margin-left: -15px;
+    float: left;
+    height: 50px;
 }
 
 /*.nav-item {
