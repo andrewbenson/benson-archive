@@ -13,39 +13,42 @@ facebookenable: false
 ---
 
 
-<div class="text-center">
+<div class="container">
+	<div class="row">
+		<div class="col">
+			<h3>Email</h3>
+			<code><a href="mailto:email@email.com">email@email.com</a></code>
+		</div>
+		<div class="col">
 
-	<h3>Email</h3>
-	<code><a href="mailto:email@email.com">email@email.com</a></code>
+			<h3>Connect with me</h3>
 
-	<br /><br />
+			<div class="contact-social-links">
+				<a href="https://twitter.com/AndrewBenson" target="_blank">
+					<button class="btn btn-default">
+						<i class="fab fa-twitter"></i> Twitter
+					</button>
+				</a>
 
-	<h3>Connect with me</h3>
+				<a href="https://linkedin.com/in/abenson" target="_blank">
+					<button class="btn btn-default">
+						<i class="fab fa-linkedin"></i> LinkedIn
+					</button>
+				</a>
 
-	<div class="contact-social-links">
-		<a href="https://twitter.com/AndrewBenson" target="_blank">
-			<button class="btn btn-default">
-				<i class="fab fa-twitter"></i> Twitter
-			</button>
-		</a>
+				<a href="https://angel.co/andrewbenson" target="_blank">
+					<button class="btn btn-default">
+						<i class="fab fa-angellist"></i> AngelList
+					</button>
+				</a>
 
-		<a href="https://linkedin.com/in/abenson" target="_blank">
-			<button class="btn btn-default">
-				<i class="fab fa-linkedin"></i> LinkedIn
-			</button>
-		</a>
-
-		<a href="https://angel.co/andrewbenson" target="_blank">
-			<button class="btn btn-default">
-				<i class="fab fa-angellist"></i> AngelList
-			</button>
-		</a>
-
-		<a href="https://keybase.io/AndrewBenson" target="_blank">
-			<button class="btn btn-default">
-				<i class="fab fa-keybase"></i> Keybase
-			</button>
-		</a>
+				<a href="https://keybase.io/AndrewBenson" target="_blank">
+					<button class="btn btn-default">
+						<i class="fab fa-keybase"></i> Keybase
+					</button>
+				</a>
+			</div>
+		</div>
 	</div>
 </div>
 
