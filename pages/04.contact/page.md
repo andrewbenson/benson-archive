@@ -62,7 +62,8 @@ PHP Fingerprint: `F295 3DAE 5A30 E6F3 586F  1A32 9D25 06BC C0D4 7CA7`
 
 PGP Public Key available on [Keybase.io](https://keybase.io/andrewbenson/pgp_keys.asc?target=_blank) or below: 
 
-```-----BEGIN PGP PUBLIC KEY BLOCK-----
+```
+-----BEGIN PGP PUBLIC KEY BLOCK-----
 
 mQINBFt4UP4BEACdHWJCjFmhn4J380Z1ecKQoyKCsRLDTxXjIxm0LA7E/xD3XQUb
 KU8FznkkKqVnyQ3xx325n0XUpqR1yqyrChRAWVV3OCBwn+PExVNXBiED4pqV3MJE
@@ -139,6 +140,7 @@ v20L0JiWyo8QCjIEBmxIOv6uR5T4YLwGQjLhKjQcrHiXM/kz4yc9e05PQcgmaLZn
 wLc+ipGtHa6al6GkwzxLLZ8Pzu34OnPCFpzDuO9XjqUOElWAWgR4i/arRmzJdw+F
 Hq07Src+uQ0GBbzltxjUt+huBISCAFYfDRaJt6b3SlLDMC4E3Bf2Y6ogs26ahA==
 =cjJ9
------END PGP PUBLIC KEY BLOCK-----```
+-----END PGP PUBLIC KEY BLOCK-----
+```
 
 I'm also available on [Keybase.io](https://keybase.io/andrewbenson?target=_blank). 
