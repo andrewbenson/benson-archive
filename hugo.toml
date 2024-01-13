@@ -1,0 +1,4 @@
+baseURL = 'https://benson.vc/'
+languageCode = 'en-us'
+title = 'Andrew Benson'
+theme = 'congo'
