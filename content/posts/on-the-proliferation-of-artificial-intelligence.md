@@ -1,7 +1,7 @@
 +++
 title = 'On the Proliferation of Artificial Intelligence'
 date = 2018-07-30T16:39:48-08:00
-draft = true
+draft = false
 +++
 
 
